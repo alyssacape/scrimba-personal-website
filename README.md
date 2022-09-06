@@ -1,1 +1,1 @@
-Visit this demo at https://alyssacape.github.io/scrimba-personal-website/
+Visit this demo at [GitHub Pages](https://alyssacape.github.io/scrimba-personal-website/)
